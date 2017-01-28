@@ -1,0 +1,18 @@
+[submodule "course/format/socialwall"]
+	path = course/format/socialwall
+	url = git@github.com:synergylearning/moodle-format_socialwall.git
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = git@github.com:bostelm/moodle-mod_scheduler.git
+[submodule "theme/adaptable"]
+	path = theme/adaptable
+	url = git@bitbucket.org:covuni/moodle-theme_adaptable.git
+[submodule "blocks/configurable_reports"]
+	path = blocks/configurable_reports
+	url = git://github.com/jleyva/moodle-block_configurablereports/
+[submodule "mod/customcert"]
+	path = mod/customcert
+	url = git://github.com/markn86/moodle-mod_customcert.git
+[submodule "auth/googleauth2"]
+	path = auth/googleauth2
+	url = git@github.com:mouneyrac/moodle-auth_googleoauth2.git
